@@ -1,0 +1,13 @@
+streamlit
+faiss-cpu
+sentence-transformers
+rank-bm25
+langchain
+langchain-core
+langchain-ollama
+pymongo
+pdfplumber
+pymupdf
+nltk
+python-dotenv
+torch
