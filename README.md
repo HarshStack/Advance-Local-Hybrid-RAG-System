@@ -1,4 +1,4 @@
-Local Hybrid RAG System (Fully Offline)
+###Advance Local Hybrid RAG System 
 
 A fast, private, production-style Retrieval-Augmented Generation (RAG) system built with:
 
@@ -15,6 +15,8 @@ MongoDB Chunk Storage
 Smart Sentence + Table Chunking
 
 Streamlit UI with Streaming Responses
+
+----------------------------------------------------
 
 🚀 Features
 
@@ -34,15 +36,18 @@ Streaming token responses
 
 Fully offline (no OpenAI)
 
+----------------------------------------------------
 
 🧠 Architecture
 
 PDF → Smart Chunking → Embeddings → FAISS + BM25 →
 Hybrid Retrieval → Reranking → LLM → Streaming Answer
 
+----------------------------------------------------
 
 ⚙️ Run Locally
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
+
