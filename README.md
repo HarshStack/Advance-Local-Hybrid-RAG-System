@@ -1,3 +1,6 @@
+<h1 align="center"> Advance Local Hybrid RAG System </h1>
+<h2>FAISS + BM25 + Sentence Transformers + Re-ranking</h2>
+
 Advance Local Hybrid RAG System 
 
 A fast, private, production-style Retrieval-Augmented Generation (RAG) system built with:
@@ -50,5 +53,6 @@ python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
+
 
 
