@@ -22,6 +22,7 @@ Advance Local Hybrid RAG System
 ----------------------------------------------------
 
 System Architecture System
+
 <img width="1536" height="1024" alt="ChatGPT Image Feb 25, 2026, 07_44_01 PM" src="https://github.com/user-attachments/assets/233bf03b-a339-47a1-860e-2ec9dca45347" />
 
 ----------------------------------------------------
@@ -46,13 +47,14 @@ Fully offline (no OpenAI)
 
 ----------------------------------------------------
 
-🧠 Architecture
+Architecture
 
 PDF → Smart Chunking → Embeddings → FAISS + BM25 →
 Hybrid Retrieval → Reranking → LLM → Streaming Answer
 
 ----------------------------------------------------
 Performance Metrics and Latency
+
 <img width="454" height="446" alt="image" src="https://github.com/user-attachments/assets/fcc6f319-89ec-4cfe-a817-01edb0234cff" />
 
 ----------------------------------------------------
@@ -68,6 +70,7 @@ Performance Metrics and Latency
 >>streamlit run app.py
 
 ----------------------------------------------------
+
 
 
 
