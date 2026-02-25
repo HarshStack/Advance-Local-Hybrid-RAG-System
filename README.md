@@ -56,7 +56,9 @@ Performance Metrics and Latency
 <img width="454" height="446" alt="image" src="https://github.com/user-attachments/assets/fcc6f319-89ec-4cfe-a817-01edb0234cff" />
 
 ----------------------------------------------------
+
 <img width="512" height="372" alt="image" src="https://github.com/user-attachments/assets/fc4b4f32-3b87-47c7-8abe-b649849ba9ac" />
+
 ----------------------------------------------------
 
 ⚙️ Run Locally
@@ -66,6 +68,7 @@ Performance Metrics and Latency
 >>streamlit run app.py
 
 ----------------------------------------------------
+
 
 
 
