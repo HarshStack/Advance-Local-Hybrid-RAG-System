@@ -1,4 +1,4 @@
-###Advance Local Hybrid RAG System 
+Advance Local Hybrid RAG System 
 
 A fast, private, production-style Retrieval-Augmented Generation (RAG) system built with:
 
@@ -50,4 +50,5 @@ python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
+
 
